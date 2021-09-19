@@ -12,5 +12,5 @@
 - Redis
 
 ### Screens
-![](backend/static/screen_chatindex.png | width=400)
-![](backend/static/screen_chatlog | width=400)
+![](backend/static/screen_chatindex.png){:width="400px"}
+![](backend/static/screen_chatlog){:width="400px"}
