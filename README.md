@@ -10,3 +10,10 @@
 - Django
 - Postgres
 - Redis
+
+### Screens
+#### First screen
+![](backend/static/screen_chatindex.png)
+
+#### Second screen
+![](backend/static/screen_chatlog.png)
