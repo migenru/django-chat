@@ -12,8 +12,5 @@
 - Redis
 
 ### Screens
-#### First screen
-![](backend/static/screen_chatindex.png)
-
-#### Second screen
-![](backend/static/screen_chatlog.png)
+![](backend/static/screen_chatindex.png | width=400)
+![](backend/static/screen_chatlog | width=400)
