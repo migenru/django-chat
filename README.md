@@ -12,5 +12,5 @@
 - Redis
 
 ### Screens
-![](backend/static/screen_chatindex.png){:width="400px"}
-![](backend/static/screen_chatlog){:width="400px"}
+<img width="400" src="https://github.com/migenru/django-chat/raw/main/backend/static/first.png">
+<img width="400" src="https://github.com/migenru/django-chat/raw/main/backend/static/second.png">
