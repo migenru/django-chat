@@ -12,5 +12,4 @@
 - Redis
 
 ### Screens
-<img width="400" src="https://github.com/migenru/django-chat/raw/main/backend/static/first.png">
-<img width="400" src="https://github.com/migenru/django-chat/raw/main/backend/static/second.png">
+![](backend/static/movie.gif)
