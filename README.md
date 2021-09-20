@@ -4,7 +4,7 @@
 - `git clone https://github.com/migenru/django-chat.git`
 - `cd django-chat`
 - `docker-compose up --build`
-- open in your browser http://127.0.0.1/
+- open in your browser http://127.0.0.1:8000/
 
 ### Stack
 - Django
